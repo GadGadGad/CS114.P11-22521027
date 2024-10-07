@@ -20,7 +20,7 @@
 ## GIỚI THIỆU MÔN HỌC
 <a name ='gioithieumonhoc'></a>
 
-* **Tên môn học**: Máy học - Machine Learning
+* **Tên môn học**: Máy học - Machine Learning   
 * **Mã môn học**: CS114
 * **Lớp học**: CS114.P11
 * **Năm học**: 2024-2025
@@ -43,3 +43,4 @@
 |MSSV|Họ tên|Mã lớp|Email|Github|
 |-|-|-|-|-|
 |22521027|Tăng Nhất|KHMT2022.3|22521027@gm.uit.edu.vn|[![](https://img.shields.io/badge/GadGadGad-%2324292f.svg?style=flat-square&logo=github      )](https://github.com/GadGadGad) |
+| `22521060` | Lê Minh Nhựt|KHMT2022.3| 22521060@gm.uit.edu.vn | [![](https://img.shields.io/badge/leeminsun1205-%2324292f.svg?style=flat-square&logo=github      )](https://github.com/leeminsun1205) |
