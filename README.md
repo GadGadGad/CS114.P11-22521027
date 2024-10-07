@@ -28,10 +28,15 @@
 ## 🔍 GIỚI THIỆU MÔN HỌC
 <a name ='gioithieumonhoc'></a>
 
-- **Tên môn học**: Máy học - Machine Learning
-- **Mã môn học**: CS114
-- **Lớp học**: CS114.P11
-- **Năm học**: 2024-2025
+<p class="marquee color-change" style="text-align: center;">
+  <b>Tên môn học</b>: Máy học - Machine Learning
+  <br>
+  <b>Mã môn học</b>: CS114
+  <br>
+  <b>Lớp học</b>: CS114.P11
+  <br>
+  <b>Năm học</b>: 2024-2025
+</p>
 
 ## 🧑‍🏫 GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
@@ -61,3 +66,65 @@
 ## 🎯 ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 - Mô tả chi tiết đồ án môn học sẽ được cập nhật sau. hihi
+
+<!-- CSS -->
+<style>
+  .marquee {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+    animation: marquee 10s linear infinite;
+  }
+
+  .color-change {
+    font-size: 20px;
+    font-weight: bold;
+    animation: colorChange 5s linear infinite, marquee 10s linear infinite;
+  }
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+
+  @keyframes colorChange {
+    0% {
+      color: #ff5733; /* Orange */
+    }
+    10% {
+      color: #33ff57; /* Green */
+    }
+    20% {
+      color: #3357ff; /* Blue */
+    }
+    30% {
+      color: #ff33a8; /* Pink */
+    }
+    40% {
+      color: #ffff33; /* Yellow */
+    }
+    50% {
+      color: #33fff0; /* Cyan */
+    }
+    60% {
+      color: #a833ff; /* Purple */
+    }
+    70% {
+      color: #ff3385; /* Magenta */
+    }
+    80% {
+      color: #33ff33; /* Lime */
+    }
+    90% {
+      color: #ff7f33; /* Coral */
+    }
+    100% {
+      color: #ff5733; /* Back to Orange */
+    }
+  }
+</style>
