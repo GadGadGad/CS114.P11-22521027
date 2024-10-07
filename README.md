@@ -8,6 +8,7 @@
 <h1 align="center"><b>CS114.P11 - MÁY HỌC</b></h1>
 
 <hr>
+
 <!-- Badge -->
 ![Language](https://img.shields.io/badge/python%203.12-%23FFF.svg?style=for-the-badge&logo=python)
 
