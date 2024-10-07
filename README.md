@@ -15,7 +15,6 @@
 * [ Giới thiệu môn học](#gioithieumonhoc)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Giới thiệu về bản thân](#banthan)
-* [ Đồ án môn học](#doan)
 * [ Thành viên nhóm](#thanhvien)
 ## GIỚI THIỆU MÔN HỌC
 <a name ='gioithieumonhoc'></a>
